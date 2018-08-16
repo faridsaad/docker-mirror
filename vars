@@ -1,0 +1,11 @@
+# Source registry
+src_reg=registry.access.redhat.com
+
+# Destination registry ( host:port )
+dest_reg=artifactory.yourcompany.com
+
+# Destination registry username
+username=USERNAME
+
+# Destination registry password
+password=PASSWORD
